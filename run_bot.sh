@@ -1,0 +1,3 @@
+#!/bin/bash
+export TELEGRAM_BOT_TOKEN="8031951857:AAE0pTrNpYO22Sgm6yJTUXPpN1HtUuEwXSU"
+python3 main.py
